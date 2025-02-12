@@ -48,7 +48,7 @@ I’m currently exploring **Aadvanced React concepts, cloud computing and threej
 I’m always open to new opportunities, collaborations, or just a friendly chat. Here’s how you can reach me:
 
 - **LinkedIn**: [LinkedIn Profile Link](https://www.linkedin.com/in/heythem-ba/)  
-- **Email**: heythem.94@gmail.com <button onclick="copyEmail()">copy email/button>
+- **Email**: heythem.94@gmail.com <button onclick="copyEmail()">copy email</button>
 - **Portfolio Website**: [heythem-baganna.tech] (Work in Progress) 
 
 <script>
