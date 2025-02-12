@@ -52,7 +52,7 @@ I’m always open to new opportunities, collaborations, or just a friendly chat.
 - **Portfolio Website**: [heythem-baganna.tech] (Work in Progress) 
 <script>
   document.getElementById('email').addEventListener('click', function() {
-    const email = 'your.email@example.com';
+    const email = 'heythem.94@gmail.com';
     navigator.clipboard.writeText(email).then(() => {
       alert('Email copied to clipboard: ' + email);
     }).catch(() => {
