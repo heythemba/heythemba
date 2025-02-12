@@ -14,8 +14,8 @@ Here are some of the technologies and tools I work with:
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&color=339933)
+![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&color=61DAFB)
+![Node.js](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=node.js&color=339933)
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6)
 ![Vite](https://img.shields.io/badge/Tool-Vite-informational?style=flat&logo=vite&color=646CFF)
