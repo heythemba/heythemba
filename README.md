@@ -1,6 +1,6 @@
 # Welcome to My GitHub Portfolio! 👋
 
-Hi there! I'm **HAythem Baganna**, a passionate **UX/UI Designer | Front-end Developer** with a love for transferring idea to an innovative solutions and solving complex problems. This repository serves as a showcase of my projects, skills, and journey in the world of technology.
+Hi there! I'm _Haythem Baganna_, a passionate **UX/UI Designer | Front-end Developer** with a love for transferring idea to an innovative solutions and solving complex problems. This repository serves as a showcase of my projects, skills, and journey in the world of technology.
 
 ## 🚀 About Me
 
