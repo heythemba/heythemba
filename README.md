@@ -34,8 +34,9 @@ Here are my first project I’m proud of:
 ## 📜 Certifications
 
 - **Certification of Completion: ALX Software Engineer Specialization in Front-End Development** - Issuing by ALX Academy on 12th February 2025 
-- <br/>
+  <br/>
   [Link to Certificate](https://intranet.alxswe.com/certificates/cZ7NYhJCHX)
+  <br/>
   - **Description**: A 12-month intensive learning program that began with a strong foundation in computer science, web development
   and algorithms, followed by 3 months of focused training in React.js and advanced web development.
   - **Date**: 27th January 2025.
