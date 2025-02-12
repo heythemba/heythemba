@@ -54,5 +54,8 @@ I’m always open to new opportunities, collaborations, or just a friendly chat.
 ---
 
 ⭐️ **Thanks for visiting my GitHub portfolio!** ⭐️  
-You'r the visitor number: ![](https://komarev.com/ghpvc/?username=heythemba&style=for-the-badge&color=blue)
+You'r the visitor number: 
+<br/>
+![](https://komarev.com/ghpvc/?username=heythemba&style=for-the-badge&color=blue)
+<br/>
 Feel free to explore my repositories, and don’t hesitate to leave feedback or suggestions. Let’s build something amazing together! 🚀
