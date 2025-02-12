@@ -33,7 +33,7 @@ Here are my first project I’m proud of:
 
 ## 📜 Certifications
 
-- **Certification of Completion: ALX Software Engineer Specialization in Front-End Development** - Issuing by ALX Academy on 12th February 2025 
+- **Certification of Completion: ALX Software Engineer Specialized in Front-End Development** - Issuing by ALX Academy on 12th February 2025 
   <br/>
   [Link to Certificate](https://intranet.alxswe.com/certificates/cZ7NYhJCHX)
   <br/>
