@@ -48,19 +48,17 @@ I’m currently exploring **Aadvanced React concepts, cloud computing and threej
 I’m always open to new opportunities, collaborations, or just a friendly chat. Here’s how you can reach me:
 
 - **LinkedIn**: [LinkedIn Profile Link](https://www.linkedin.com/in/heythem-ba/)  
-- **Email**: <span id="email" style="cursor: pointer;">heythem.94@gmail.com</span>  
+- **Email**: <button onclick="copyEmail()">heythem.94@gmail.com</button>
 - **Portfolio Website**: [heythem-baganna.tech] (Work in Progress) 
-<script>
-  document.getElementById('email').addEventListener('click', function() {
-    const email = 'heythem.94@gmail.com';
-    navigator.clipboard.writeText(email).then(() => {
-      alert('Email copied to clipboard: ' + email);
-    }).catch(() => {
-      alert('Failed to copy email. Please manually copy it.');
-    });
-  });
-</script>
 
+<script>
+function copyEmail() {
+  const email = 'heythem.94@gmail.com';
+  navigator.clipboard.writeText(email).then(() => {
+    alert('Email copied to clipboard');
+  });
+}
+</script>
 ---
 
 ⭐️ **Thanks for visiting my GitHub portfolio!** ⭐️  
