@@ -5,7 +5,7 @@ Hi there! I'm _Haythem Baganna_, a passionate **UX/UI Designer | Front-end Devel
 ## 🚀 About Me
 
 - 🌟 **What I Do**: I specialize in **UX/UI Design and Front-End Development** and i enjoy working on projects that challenge me to grow.
-- 📚 **Learning Journey**: I recently completed the **ALX Software Engineering Program**, where I honed my skills in **Web Development, JavaScript, ReactJs, NodeJs**.
+- 📚 **Learning Journey**: I completed the **ALX Software Engineering Program**, where I honed my skills in **Web Development, JavaScript, ReactJs, NodeJs**.
 - 💡 **Philosophy**: I believe in continuous learning, collaboration, and the power of perseverance. Every challenge is an opportunity to grow!
 
 ## 🛠️ Skills
@@ -44,7 +44,7 @@ Here are my first project I’m proud of:
 
 ## 🌱 What’s Next?
 
-I’m currently exploring **Aadvanced React concepts, cloud computing and threejs framework** and looking for opportunities to collaborate on exciting projects. If you’re interested in working together or just want to connect, feel free to reach out!
+I’m currently exploring **Aadvanced React concepts, cloud computing and threejs framework, Project Managments Course** and looking for opportunities to collaborate on exciting projects. If you’re interested in working together or just want to connect, feel free to reach out!
 
 ## 📫 Let’s Connect!
 
