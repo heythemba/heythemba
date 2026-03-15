@@ -52,7 +52,7 @@ I’m always open to new opportunities, collaborations, or just a friendly chat.
 
 - **LinkedIn**: [LinkedIn Profile Link](https://www.linkedin.com/in/heythem-ba/)  
 - **Email**: heythem.94@gmail.com 
-- **Portfolio Website**: [heythem-baganna.tech] (Work in Progress) 
+- **Portfolio Website**: [Haythem Baganna](haythem-baganna.vercel.app) 
 
 
 ---
